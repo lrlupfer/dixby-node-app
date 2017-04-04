@@ -1,0 +1,26 @@
+{
+  "name": "dixby-node-app",
+  "version": "1.0.0",
+  "description": "bootcamp homework",
+  "main": "dixby.js",
+  "dependencies": {
+    "twitter": "^1.7.0",
+    "spotify": "^0.3.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrlupfer/dixby-node-app.git"
+  },
+  "keywords": [],
+  "author": "Lindsey Lupfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrlupfer/dixby-node-app/issues"
+  },
+  "homepage": "https://github.com/lrlupfer/dixby-node-app#readme"
+}
